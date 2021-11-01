@@ -1,0 +1,19 @@
+{
+  "name": "@etaaaaaaa/browserlibrary2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etaaaaaaa/BrowserLibrary2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etaaaaaaa/BrowserLibrary2/issues"
+  },
+  "homepage": "https://github.com/etaaaaaaa/BrowserLibrary2#readme"
+}
